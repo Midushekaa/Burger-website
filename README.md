@@ -1,1 +1,1 @@
-# Burger-website
+# Burger-website This burger website is built using HTML, CSS, and JavaScript, offering a responsive design that adapts to all screen sizes. Enjoy mouth-watering burgers and a smooth, interactive user experience!
